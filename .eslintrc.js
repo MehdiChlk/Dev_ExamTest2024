@@ -5,7 +5,7 @@ module.exports = {
         "es2021": true,
         "jest": true
     },
-    "extends": "eslint:recommended",
+    "extends": "['prettier']",
     "overrides": [
         {
             "env": {
